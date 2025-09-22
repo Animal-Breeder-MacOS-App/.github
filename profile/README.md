@@ -20,7 +20,7 @@ The software offers an intuitive interface to build detailed family trees, predi
 
 Optimized for macOS, Animal Breeder delivers smooth performance on MacBook Air, MacBook Pro, and iMac, leveraging the full power of Apple Silicon and Intel processors.
 
-![Animal Breeder Interface](https://static.macupdate.com/screenshots/356994/m/phpitpbor-screenshot.png?v=1753266022)
+![Animal Breeder Interface](https://static.macupdate.com/screenshots/356993/m/phpaoqh8q-screenshot.png?v=1753266022)
 
 ---
 
